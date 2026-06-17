@@ -201,7 +201,7 @@ Hotel operation management solution.
 
 💼 LinkedIn
 
-linkedin.com/in/satyam-kushwaha
+[linkedin.com/in/satyam-kushwaha](https://www.linkedin.com/in/satyamkushwaha3224/)
 
 📧 Email
 
@@ -209,7 +209,7 @@ sk7555911@gmail.com
 
 🐙 GitHub
 
-github.com/SatyamKushwaha3232
+[github.com/SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
 
 ---
 
