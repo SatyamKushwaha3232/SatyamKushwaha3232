@@ -8,9 +8,6 @@
 
 ---
 
-
----
-
 # 👨‍💻 About Me
 
 🎓 **B.Tech CSE Student** at SRIT Jabalpur, RGPV University  
