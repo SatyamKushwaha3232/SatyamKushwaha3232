@@ -1,31 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=220&section=header&text=Satyam%20Kushwaha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Engineer%20%7C%20AI%20Explorer&descAlignY=58&descSize=18" />
+# 👋 Hi, I'm Satyam Kushwaha
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;Building+Universal+AI+OS;Microsoft+Azure+%26+AI+Enthusiast;Learning+%7C+Building+%7C+Growing" />
+### 🚀 Aspiring Software Engineer | Full Stack Developer | Cloud Engineer | AI Explorer
+
+<p>
+Building AI-powered applications • Exploring Microsoft Azure • Solving real-world problems
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cloud+Engineer;Azure+Enthusiast;AI+Explorer;RAG+Developer;Building+Universal+AI+OS;Microsoft+Student+Ambassador+Aspirant" />
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=SatyamKushwaha3232&color=22c55e&style=for-the-badge)
 
 </div>
 
 ---
 
-
 # 👨‍💻 About Me
 
-🎓 **B.Tech CSE Student** at SRIT Jabalpur (RGPV)
+🎓 **B.Tech CSE Student** at SRIT Jabalpur, RGPV University  
 
-💻 Passionate about Full Stack Development
+💻 Passionate about **Full Stack Development** and real-world software projects  
 
-☁️ Exploring Cloud Computing & Microsoft Azure
+☁️ Exploring **Microsoft Azure, Cloud Computing, and AI Services**  
 
-🤖 Building AI-Powered Applications
+🤖 Building AI-powered systems using **RAG, FastAPI, Azure AI, and modern web technologies**  
 
-📚 Active Microsoft Learn Learner
+📚 Active Microsoft Learn learner with **105,000+ XP, 64+ badges, and 10+ trophies**  
 
-🔥 Consistent LeetCode Problem Solver
+🔥 Consistent LeetCode problem solver focused on DSA and logic building  
 
-🎯 Goal: Microsoft Student Ambassador & Software Engineer
+🚀 Currently building **Universal AI OS**  
 
-🚀 Currently Building: **Universal AI OS**
+🌍 Developed **Multilingual RAG**, an AI-based multilingual document question-answering system  
+
+🎯 Goal: **Microsoft Student Ambassador | Software Engineer | Cloud Engineer**
 
 ---
 
@@ -38,7 +49,7 @@ An AI-powered productivity operating system that combines multiple intelligent t
 ### Core Modules
 
 | Module | Description |
-|----------|------------|
+|---|---|
 | 🤖 AI Chat | Intelligent conversational assistant |
 | 📄 Documents | Smart document understanding |
 | 📝 Notes | AI-assisted note management |
@@ -50,32 +61,80 @@ An AI-powered productivity operating system that combines multiple intelligent t
 | 📑 PPT Builder | Presentation generation |
 | 📄 Resume Builder | Professional resume creation |
 
+**Tech Stack:** Next.js • TypeScript • Tailwind CSS • FastAPI • Python • Azure AI • RAG • Docker
+
+🌐 **Live Demo:** `YOUR_UNIVERSAL_AI_OS_DEPLOY_LINK`  
+🔗 **Repository:** https://github.com/SatyamKushwaha3232/UNIVERSAL_AI_OS
+
+---
+
+# 🌍 Multilingual RAG
+
+Multilingual RAG is an AI-powered Retrieval-Augmented Generation system that allows users to upload documents, ask questions in different languages, and get context-aware answers.
+
+### Features
+
+| Feature | Description |
+|---|---|
+| 📄 Document Upload | Upload and process documents |
+| 🌐 Multilingual Support | Ask questions in multiple languages |
+| 🔍 Semantic Search | Retrieve relevant content using embeddings |
+| 🧠 RAG Pipeline | Combines retrieval with generation |
+| ⚡ FastAPI Backend | Fast and scalable API layer |
+| 🗂️ Vector Database | Stores document embeddings |
+| 💬 AI Q&A | Intelligent question-answering |
+| 🌍 Translation Support | Handles multilingual input/output |
+
+**Tech Stack:** Python • FastAPI • FAISS • Sentence Transformers • Hugging Face • Google Translate • HTML • CSS • JavaScript
+
+🌐 **Live Demo:** `YOUR_MULTILINGUAL_RAG_DEPLOY_LINK`  
+🔗 **Repository:** https://github.com/SatyamKushwaha3232/Multilingual_RAG
+
 ---
 
 # 🛠️ Tech Stack
 
-## Languages
+## Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs,html,css" />
 </p>
 
-## Frontend
+## Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
 </p>
 
-## Backend
+## Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,fastapi" />
 </p>
 
+## AI & Machine Learning
+
+- Retrieval-Augmented Generation
+- Embeddings
+- Vector Search
+- Semantic Search
+- Prompt Engineering
+- AI Agents
+- Hugging Face
+- Sentence Transformers
+- Azure AI Services
+
+## Databases & Storage
+
+- FAISS Vector Database
+- PostgreSQL
+- Local Storage
+- Document Indexing
+
 ## Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=azure,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github,vercel" />
 </p>
 
 ## Tools
@@ -88,20 +147,12 @@ An AI-powered productivity operating system that combines multiple intelligent t
 
 # 🏆 Microsoft Learn Achievements
 
-🏆 10+ Trophies
-
-🎖️ 64+ Badges
-
-⭐ 105,000+ XP
-
-📚 Learning Areas:
-
-- Microsoft Azure
-- Artificial Intelligence
-- Cloud Computing
-- GitHub
-- Security
-- Data Fundamentals
+| Achievement | Progress |
+|---|---|
+| 🏆 Trophies | 10+ |
+| 🎖️ Badges | 64+ |
+| ⭐ XP | 105,000+ |
+| ☁️ Focus | Azure, AI, Cloud, GitHub, Security, Data |
 
 ---
 
@@ -118,14 +169,15 @@ An AI-powered productivity operating system that combines multiple intelligent t
 - Graphs
 - Dynamic Programming
 - Greedy Algorithms
+- Matrix Problems
+- Recursion
 
 ### Goals
 
-✅ Strengthen DSA
-
-✅ Improve Problem Solving
-
-✅ Prepare for Product-Based Companies
+✅ Strengthen DSA  
+✅ Improve problem-solving skills  
+✅ Prepare for product-based companies  
+✅ Build consistency through daily practice  
 
 ---
 
@@ -135,10 +187,15 @@ An AI-powered productivity operating system that combines multiple intelligent t
 - Next.js Architecture
 - FastAPI Backend Development
 - Azure AI Services
+- Azure OpenAI
 - Cloud Computing
-- AI Agents
+- Docker
+- PostgreSQL
+- Vector Databases
 - RAG Architecture
+- AI Agents
 - System Design Fundamentals
+- DSA & Competitive Programming
 
 ---
 
@@ -146,11 +203,12 @@ An AI-powered productivity operating system that combines multiple intelligent t
 
 - Become Microsoft Student Ambassador
 - Deploy Universal AI OS
+- Deploy Multilingual RAG
 - Secure Software Development Internship
 - Master Azure Cloud
-- Build Production-Level Projects
-- Contribute to Open Source
-- Improve DSA & Competitive Programming
+- Build production-level full stack projects
+- Contribute to open source
+- Improve DSA & competitive programming
 
 ---
 
@@ -158,30 +216,55 @@ An AI-powered productivity operating system that combines multiple intelligent t
 
 ## 🚀 Universal AI OS
 
-AI-powered productivity operating system built using:
+AI-powered productivity operating system with AI chat, agents, notes, resume builder, PPT builder, workflow automation, analytics, and memory engine.
 
-- Next.js
-- FastAPI
-- Azure AI
-- Multi-Agent Architecture
+**Tech:** Next.js • FastAPI • Azure AI • TypeScript • Python • RAG
+
+🌐 Live: `YOUR_UNIVERSAL_AI_OS_DEPLOY_LINK`  
+🔗 Repo: https://github.com/SatyamKushwaha3232/UNIVERSAL_AI_OS
+
+---
+
+## 🌍 Multilingual RAG
+
+AI-powered multilingual document question-answering system using Retrieval-Augmented Generation.
+
+**Tech:** Python • FastAPI • FAISS • Sentence Transformers • Hugging Face • HTML • CSS • JavaScript
+
+🌐 Live: `YOUR_MULTILINGUAL_RAG_DEPLOY_LINK`  
+🔗 Repo: https://github.com/SatyamKushwaha3232/Multilingual_RAG
 
 ---
 
 ## 👕 SwapWear
 
-Clothing Exchange Marketplace Platform
+A sustainable clothing exchange marketplace platform.
 
-Built with:
+**Tech:** React • Vite • Tailwind CSS
 
-- React
-- Tailwind CSS
-- Vite
+🌐 Live: `YOUR_SWAPWEAR_DEPLOY_LINK`  
+🔗 Repo: `YOUR_SWAPWEAR_REPO_LINK`
 
 ---
 
 ## 🏨 Hotel Management System
 
-Hotel operation management solution.
+A hotel operation management project designed to simplify hotel workflow and administration.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 Repo: `YOUR_HOTEL_MANAGEMENT_REPO_LINK`
+
+---
+
+# 🌐 Live Projects
+
+| Project | Live Demo | Repository |
+|---|---|---|
+| Universal AI OS | `YOUR_UNIVERSAL_AI_OS_DEPLOY_LINK` | https://github.com/SatyamKushwaha3232/UNIVERSAL_AI_OS |
+| Multilingual RAG | `YOUR_MULTILINGUAL_RAG_DEPLOY_LINK` | https://github.com/SatyamKushwaha3232/Multilingual_RAG |
+| SwapWear | `YOUR_SWAPWEAR_DEPLOY_LINK` | `YOUR_SWAPWEAR_REPO_LINK` |
+| Hotel Management | Not deployed yet | `YOUR_HOTEL_MANAGEMENT_REPO_LINK` |
 
 ---
 
@@ -199,23 +282,20 @@ Hotel operation management solution.
 
 # 🤝 Connect With Me
 
-💼 LinkedIn
+💼 **LinkedIn**  
+https://linkedin.com/in/satyam-kushwaha
 
-[linkedin.com/in/satyam-kushwaha](https://www.linkedin.com/in/satyamkushwaha3224/)
-
-📧 Email
-
+📧 **Email**  
 sk7555911@gmail.com
 
-🐙 GitHub
-
-[github.com/SatyamKushwaha3232](https://github.com/SatyamKushwaha3232)
+🐙 **GitHub**  
+https://github.com/SatyamKushwaha3232
 
 ---
 
 # 💭 Quote
 
-> "Learning, Building, and Growing Every Day."
+> Learning, Building, and Growing Every Day.
 
 ---
 
