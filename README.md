@@ -77,7 +77,7 @@ Multilingual RAG is an AI-powered Retrieval-Augmented Generation system that all
 
 **Tech Stack:** Python • FastAPI • FAISS • Sentence Transformers • Hugging Face • Google Translate • HTML • CSS • JavaScript
 
-🌐 **Live Demo:** `YOUR_MULTILINGUAL_RAG_DEPLOY_LINK`  
+🌐 **Live Demo:** https://huggingface.co/spaces/Satyamkushwaha3232/multilingual-rag  
 🔗 **Repository:** https://github.com/SatyamKushwaha3232/Multilingual_RAG
 
 ---
@@ -221,7 +221,7 @@ AI-powered multilingual document question-answering system using Retrieval-Augme
 
 **Tech:** Python • FastAPI • FAISS • Sentence Transformers • Hugging Face • HTML • CSS • JavaScript
 
-🌐 Live: `YOUR_MULTILINGUAL_RAG_DEPLOY_LINK`  
+🌐 Live: https://huggingface.co/spaces/Satyamkushwaha3232/multilingual-rag  
 🔗 Repo: https://github.com/SatyamKushwaha3232/Multilingual_RAG
 
 ---
@@ -233,7 +233,7 @@ A sustainable clothing exchange marketplace platform.
 **Tech:** React • Vite • Tailwind CSS
 
 🌐 Live: `YOUR_SWAPWEAR_DEPLOY_LINK`  
-🔗 Repo: `YOUR_SWAPWEAR_REPO_LINK`
+🔗 Repo: https://github.com/SatyamKushwaha3232/Swapwear
 
 ---
 
@@ -252,8 +252,8 @@ A hotel operation management project designed to simplify hotel workflow and adm
 | Project | Live Demo | Repository |
 |---|---|---|
 | Universal AI OS | `YOUR_UNIVERSAL_AI_OS_DEPLOY_LINK` | https://github.com/SatyamKushwaha3232/UNIVERSAL_AI_OS |
-| Multilingual RAG | `YOUR_MULTILINGUAL_RAG_DEPLOY_LINK` | https://github.com/SatyamKushwaha3232/Multilingual_RAG |
-| SwapWear | `YOUR_SWAPWEAR_DEPLOY_LINK` | `YOUR_SWAPWEAR_REPO_LINK` |
+| Multilingual RAG | https://huggingface.co/spaces/Satyamkushwaha3232/multilingual-rag | https://github.com/SatyamKushwaha3232/Multilingual_RAG |
+| SwapWear | `YOUR_SWAPWEAR_DEPLOY_LINK` | https://github.com/SatyamKushwaha3232/Swapwear |
 | Hotel Management | Not deployed yet | `YOUR_HOTEL_MANAGEMENT_REPO_LINK` |
 
 ---
