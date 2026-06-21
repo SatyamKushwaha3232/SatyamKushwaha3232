@@ -399,3 +399,91 @@ YOUR_HOTEL_MANAGEMENT_REPO_LINK
 <img src="https://komarev.com/ghpvc/?username=SatyamKushwaha3232&style=for-the-badge&color=blueviolet"/>
 
 </p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/SatyamKushwaha3232/SatyamKushwaha3232/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+
+# 🏅 Certifications & Learning
+
+✔ Microsoft Learn
+
+✔ Microsoft Azure Learning Paths
+
+✔ AI Learning Paths
+
+✔ GitHub Learning Paths
+
+✔ Cisco Networking Academy
+
+✔ Continuous Self Learning
+
+---
+
+# 🎯 2026 Roadmap
+
+- ✅ Become Microsoft Student Ambassador
+
+- 🚀 Deploy Universal AI OS
+
+- 🌍 Scale Multilingual RAG
+
+- 💼 Secure Software Development Internship
+
+- ☁️ Become Azure AI Engineer
+
+- 🤖 Build Production-Level AI Applications
+
+- 🌟 Contribute to Open Source
+
+- 🧠 Master Data Structures & Algorithms
+
+---
+
+# 📬 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/satyam-kushwaha">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sk7555911@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/SatyamKushwaha3232">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+💙 Learning • Building • Growing
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0088FF,100:00F5A0&height=120&section=footer"/>
+
+</div>
+
+---
+
+
+
+
+
+
+
+
