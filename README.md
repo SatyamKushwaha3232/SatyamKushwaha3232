@@ -274,6 +274,13 @@ A hotel operation management project designed to simplify hotel workflow and adm
 </p>
 
 ---
+# 📈 GitHub Metrics
+
+<p align="center">
+<img src="./github-metrics.svg" width="100%">
+</p>
+
+
 # ⚡ Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
