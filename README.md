@@ -268,6 +268,15 @@ A hotel operation management project designed to simplify hotel workflow and adm
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamKushwaha3232&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SatyamKushwaha3232&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://streak-stats.demolab.com?user=SatyamKushwaha3232&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamKushwaha3232&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 # 🤝 Connect With Me
