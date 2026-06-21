@@ -274,6 +274,12 @@ A hotel operation management project designed to simplify hotel workflow and adm
 </p>
 
 ---
+# ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
 
 # 🤝 Connect With Me
 
