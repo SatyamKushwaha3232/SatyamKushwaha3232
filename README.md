@@ -1,313 +1,401 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=220&section=header&text=Satyam%20Kushwaha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Engineer%20%7C%20AI%20Explorer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:0088FF&height=250&section=header&text=Satyam%20Kushwaha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Engineer%20%7C%20AI%20Explorer&descAlignY=58&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cloud+Engineer;Azure+Enthusiast;AI+Explorer;RAG+Developer;Building+Universal+AI+OS;Microsoft+Student+Ambassador+Aspirant" />
+# 👋 Hello, I'm Satyam Kushwaha
+
+### 🚀 Building AI Products • Full Stack Developer • Cloud Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cloud+Engineer;Microsoft+Azure+Enthusiast;Artificial+Intelligence+Explorer;Retrieval-Augmented+Generation+Developer;Building+Universal+AI+OS;Microsoft+Student+Ambassador+Aspirant"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=SatyamKushwaha3232&style=for-the-badge&color=blueviolet"/>
+
+<img src="https://img.shields.io/github/followers/SatyamKushwaha3232?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/SatyamKushwaha3232?affiliations=OWNER&style=for-the-badge"/>
 
 </div>
 
----
-
 # 👨‍💻 About Me
 
-🎓 **B.Tech CSE Student** at SRIT Jabalpur, RGPV University  
+```yaml
+Name: Satyam Kushwaha
 
-💻 Passionate about **Full Stack Development** and real-world software projects  
+Education:
+  B.Tech Computer Science & Engineering
 
-☁️ Exploring **Microsoft Azure, Cloud Computing, and AI Services**  
+University:
+  Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV)
 
-🤖 Building AI-powered systems using **RAG, FastAPI, Azure AI, and modern web technologies**  
+College:
+  Shri Ram Institute of Technology (SRIT), Jabalpur
 
-📚 Active Microsoft Learn learner with **105,000+ XP, 64+ badges, and 10+ trophies**  
+Current Focus:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Cloud Computing
+  - Microsoft Azure
+  - Retrieval-Augmented Generation
 
-🔥 Consistent LeetCode problem solver focused on DSA and logic building  
+Current Project:
+  Universal AI OS
 
-🚀 Currently building **Universal AI OS**  
+Goal:
+  Microsoft Student Ambassador
+  Software Engineer
+  Cloud Engineer
 
-🌍 Developed **Multilingual RAG**, an AI-based multilingual document question-answering system  
+Currently Learning:
+  - Next.js
+  - FastAPI
+  - Azure AI
+  - AI Agents
+  - System Design
+```
+# 🚀 What I'm Working On
 
-🎯 Goal: **Microsoft Student Ambassador | Software Engineer | Cloud Engineer**
+🧠 Universal AI OS
+
+🌍 Multilingual RAG
+
+☁️ Azure AI Services
+
+🤖 AI Agents
+
+📄 Resume Builder
+
+📑 PPT Generator
+
+💬 AI Chat System
+
+📊 Analytics Dashboard
+
+🔥 Daily LeetCode
+
+# 🏆 Microsoft Learn
+
+| Achievement | Progress |
+|------------|----------|
+| ⭐ XP | **105,000+** |
+| 🏅 Badges | **64+** |
+| 🏆 Trophies | **10+** |
+
+### Learning Areas
+
+- Microsoft Azure
+
+- Artificial Intelligence
+
+- Cloud Computing
+
+- GitHub
+
+- Security
+
+- Data Fundamentals
+
+- Azure AI Foundry
+
+- Azure OpenAI
+
+ # 🛠 Tech Stack
+
+## Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,cs,html,css"/>
+
+</p>
 
 ---
 
-# 🚀 Current Flagship Project
+## Frontend
 
-## Universal AI OS
+<p align="center">
 
-An AI-powered productivity operating system that combines multiple intelligent tools into one unified platform.
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
 
-### Core Modules
-
-| Module | Description |
-|---|---|
-| 🤖 AI Chat | Intelligent conversational assistant |
-| 📄 Documents | Smart document understanding |
-| 📝 Notes | AI-assisted note management |
-| 🎤 Interview Assistant | Technical interview preparation |
-| 📊 Analytics | Productivity insights |
-| 🧠 Memory | Personalized AI memory |
-| ⚙️ Workflow | Automation system |
-| 🤖 AI Agents | Specialized task agents |
-| 📑 PPT Builder | Presentation generation |
-| 📄 Resume Builder | Professional resume creation |
-
-**Tech Stack:** Next.js • TypeScript • Tailwind CSS • FastAPI • Python • Azure AI • RAG • Docker
-
-🌐 **Live Demo:** `YOUR_UNIVERSAL_AI_OS_DEPLOY_LINK`  
-🔗 **Repository:** https://github.com/SatyamKushwaha3232/UNIVERSAL_AI_OS
+</p>
 
 ---
 
-# 🌍 Multilingual RAG
+## Backend
 
-Multilingual RAG is an AI-powered Retrieval-Augmented Generation system that allows users to upload documents, ask questions in different languages, and get context-aware answers.
+<p align="center">
 
-### Features
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi"/>
 
-| Feature | Description |
-|---|---|
-| 📄 Document Upload | Upload and process documents |
-| 🌐 Multilingual Support | Ask questions in multiple languages |
-| 🔍 Semantic Search | Retrieve relevant content using embeddings |
-| 🧠 RAG Pipeline | Combines retrieval with generation |
-| ⚡ FastAPI Backend | Fast and scalable API layer |
-| 🗂️ Vector Database | Stores document embeddings |
-| 💬 AI Q&A | Intelligent question-answering |
-| 🌍 Translation Support | Handles multilingual input/output |
-
-**Tech Stack:** Python • FastAPI • FAISS • Sentence Transformers • Hugging Face • Google Translate • HTML • CSS • JavaScript
-
-🌐 **Live Demo:** https://huggingface.co/spaces/Satyamkushwaha3232/multilingual-rag  
-🔗 **Repository:** https://github.com/SatyamKushwaha3232/Multilingual_RAG
+</p>
 
 ---
 
-# 🛠️ Tech Stack
+## AI
 
-## Programming Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs,html,css" />
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
 </p>
 
-## Frontend Development
+Azure AI
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+Azure OpenAI
+
+RAG
+
+Prompt Engineering
+
+Embeddings
+
+Sentence Transformers
+
+FAISS
+
+Hugging Face
+
+AI Agents
+
+---
+
+## Cloud
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github,vercel"/>
+
 </p>
 
-## Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi" />
-</p>
-
-## AI & Machine Learning
-
-- Retrieval-Augmented Generation
-- Embeddings
-- Vector Search
-- Semantic Search
-- Prompt Engineering
-- AI Agents
-- Hugging Face
-- Sentence Transformers
-- Azure AI Services
-
-## Databases & Storage
-
-- FAISS Vector Database
-- PostgreSQL
-- Local Storage
-- Document Indexing
-
-## Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=azure,docker,git,github,vercel" />
-</p>
+---
 
 ## Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman"/>
+
+</p> 
+
+---
+
+## Dynamic Badges
+
+<div align="center">
+
+![](https://img.shields.io/badge/Open%20Source-Learning-blue)
+
+![](https://img.shields.io/badge/Azure-Cloud-blue)
+
+![](https://img.shields.io/badge/AI-RAG-success)
+
+![](https://img.shields.io/badge/Next.js-FullStack-black)
+
+![](https://img.shields.io/badge/FastAPI-Python-green)
+
+![](https://img.shields.io/badge/Microsoft-Learn-orange)
+
+</div>
+
+# 🚀 Featured Projects
+
+---
+
+## 🤖 Universal AI OS (Flagship Project)
+
+> **An AI-powered productivity operating system integrating multiple intelligent tools into a single modern platform.**
+
+### ✨ Features
+
+* 🤖 AI Chat Assistant
+* 🧠 AI Agents
+* 📄 Smart Documents
+* 📝 Smart Notes
+* 📊 Analytics Dashboard
+* 📑 PPT Generator
+* 📄 Resume Builder
+* 💼 Interview Preparation
+* ⚙️ Workflow Automation
+* 🧠 AI Memory Engine
+
+### ⚙️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,fastapi,python,docker,azure"/>
 </p>
 
----
+**Status:** 🚧 Currently Under Development
 
-# 🏆 Microsoft Learn Achievements
+🔗 **Repository:**
+https://github.com/SatyamKushwaha3232/UNIVERSAL_AI_OS
 
-| Achievement | Progress |
-|---|---|
-| 🏆 Trophies | 10+ |
-| 🎖️ Badges | 64+ |
-| ⭐ XP | 105,000+ |
-| ☁️ Focus | Azure, AI, Cloud, GitHub, Security, Data |
-
----
-
-# 🔥 LeetCode Journey
-
-💡 Consistently solving Data Structures & Algorithms problems.
-
-### Focus Areas
-
-- Arrays
-- Strings
-- Binary Search
-- Trees
-- Graphs
-- Dynamic Programming
-- Greedy Algorithms
-- Matrix Problems
-- Recursion
-
-### Goals
-
-✅ Strengthen DSA  
-✅ Improve problem-solving skills  
-✅ Prepare for product-based companies  
-✅ Build consistency through daily practice  
-
----
-
-# 🌱 Currently Learning
-
-- Advanced React
-- Next.js Architecture
-- FastAPI Backend Development
-- Azure AI Services
-- Azure OpenAI
-- Cloud Computing
-- Docker
-- PostgreSQL
-- Vector Databases
-- RAG Architecture
-- AI Agents
-- System Design Fundamentals
-- DSA & Competitive Programming
-
----
-
-# 🎯 2026 Goals
-
-- Become Microsoft Student Ambassador
-- Deploy Universal AI OS
-- Deploy Multilingual RAG
-- Secure Software Development Internship
-- Master Azure Cloud
-- Build production-level full stack projects
-- Contribute to open source
-- Improve DSA & competitive programming
-
----
-
-# 🌟 Featured Projects
-
-## 🚀 Universal AI OS
-
-AI-powered productivity operating system with AI chat, agents, notes, resume builder, PPT builder, workflow automation, analytics, and memory engine.
-
-**Tech:** Next.js • FastAPI • Azure AI • TypeScript • Python • RAG
-
-🌐 Live: `YOUR_UNIVERSAL_AI_OS_DEPLOY_LINK`  
-🔗 Repo: https://github.com/SatyamKushwaha3232/UNIVERSAL_AI_OS
+🌐 **Live Demo:**
+Coming Soon
 
 ---
 
 ## 🌍 Multilingual RAG
 
-AI-powered multilingual document question-answering system using Retrieval-Augmented Generation.
+> **An AI-powered Retrieval-Augmented Generation platform capable of answering questions from uploaded documents in multiple languages.**
 
-**Tech:** Python • FastAPI • FAISS • Sentence Transformers • Hugging Face • HTML • CSS • JavaScript
+### ✨ Features
 
-🌐 Live: https://huggingface.co/spaces/Satyamkushwaha3232/multilingual-rag  
-🔗 Repo: https://github.com/SatyamKushwaha3232/Multilingual_RAG
+* 📄 PDF Upload
+* 🌐 Multilingual Support
+* 🔍 Semantic Search
+* 🧠 RAG Pipeline
+* ⚡ FastAPI Backend
+* 🗂️ FAISS Vector Database
+* 🤗 Hugging Face Embeddings
+* 💬 AI Question Answering
+* 🌍 Translation Support
+
+### ⚙️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,fastapi"/>
+</p>
+
+**Libraries & AI Stack**
+
+* Sentence Transformers
+* FAISS
+* Hugging Face
+* Google Translate
+* HTML
+* CSS
+* JavaScript
+
+🔗 **Repository:**
+https://github.com/SatyamKushwaha3232/Multilingual_RAG
+
+🌐 **Live Demo:**
+https://huggingface.co/spaces/Satyamkushwaha3232/multilingual-rag
 
 ---
 
 ## 👕 SwapWear
 
-A sustainable clothing exchange marketplace platform.
+> **A modern clothing exchange marketplace focused on sustainable fashion and community-driven clothing swaps.**
 
-**Tech:** React • Vite • Tailwind CSS
+### Tech Stack
 
-🌐 Live: `YOUR_SWAPWEAR_DEPLOY_LINK`  
-🔗 Repo: https://github.com/SatyamKushwaha3232/Swapwear
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
+</p>
+
+🔗 Repository:
+https://github.com/SatyamKushwaha3232/Swapwear
+
+🌐 Live Demo:
+Coming Soon
 
 ---
 
 ## 🏨 Hotel Management System
 
-A hotel operation management project designed to simplify hotel workflow and administration.
+> **A hotel management platform for reservations, customer records, and hotel operations.**
 
-**Tech:** HTML • CSS • JavaScript
+### Tech Stack
 
-🔗 Repo: `YOUR_HOTEL_MANAGEMENT_REPO_LINK`
-
----
-
-# 🌐 Live Projects
-
-| Project | Live Demo | Repository |
-|---|---|---|
-| Universal AI OS | `YOUR_UNIVERSAL_AI_OS_DEPLOY_LINK` | https://github.com/SatyamKushwaha3232/UNIVERSAL_AI_OS |
-| Multilingual RAG | https://huggingface.co/spaces/Satyamkushwaha3232/multilingual-rag | https://github.com/SatyamKushwaha3232/Multilingual_RAG |
-| SwapWear | `YOUR_SWAPWEAR_DEPLOY_LINK` | https://github.com/SatyamKushwaha3232/Swapwear |
-| Hotel Management | Not deployed yet | `YOUR_HOTEL_MANAGEMENT_REPO_LINK` |
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SatyamKushwaha3232&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://streak-stats.demolab.com?user=SatyamKushwaha3232&theme=tokyonight&hide_border=true" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamKushwaha3232&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatyamKushwaha3232&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-# 📈 GitHub Metrics
-
-<p align="center">
-<img src="./github-metrics.svg" width="100%">
-</p>
-
-
-# ⚡ Recent GitHub Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
----
-
-# 🤝 Connect With Me
-
-💼 **LinkedIn**  
-https://linkedin.com/in/satyam-kushwaha
-
-📧 **Email**  
-sk7555911@gmail.com
-
-🐙 **GitHub**  
-https://github.com/SatyamKushwaha3232
+🔗 Repository:
+YOUR_HOTEL_MANAGEMENT_REPO_LINK
 
 ---
 
-# 💭 Quote
+## 🌐 Live Projects
 
-> Learning, Building, and Growing Every Day.
+| 🚀 Project       | 🌍 Live Demo                                                      | 💻 Repository    |
+| ---------------- | ----------------------------------------------------------------- | ---------------- |
+| Universal AI OS  | Coming Soon                                                       | Universal_AI_OS  |
+| Multilingual RAG | https://huggingface.co/spaces/Satyamkushwaha3232/multilingual-rag | Multilingual_RAG |
+| SwapWear         | Coming Soon                                                       | SwapWear         |
+| Hotel Management | Coming Soon                                                       | Hotel Management |
 
----
+
+# 📊 GitHub Analytics Dashboard
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SatyamKushwaha3232&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=SatyamKushwaha3232&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamKushwaha3232&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+
+<img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatyamKushwaha3232&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SatyamKushwaha3232&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SatyamKushwaha3232&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📈 GitHub Metrics
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/SatyamKushwaha3232/SatyamKushwaha3232/main/github-metrics.svg"/>
+
+</p>
+
+---
+
+# 📊 Detailed Statistics
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SatyamKushwaha3232&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SatyamKushwaha3232&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SatyamKushwaha3232&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Contribution
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SatyamKushwaha3232&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SatyamKushwaha3232&style=for-the-badge&color=blueviolet"/>
+
+</p>
